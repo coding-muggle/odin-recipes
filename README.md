@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- This project will be a recipe book essentially where each recipe is listed on the website and it has a link that takes us to that specific recipe. The skills I have demonstrated ibclude displaying each recipe insutrctions in an ordered list, ensuring each link opens a seperate page if it is redirecting us to a different link and if it is on the same website then it will remain on the site, and finally there will also be images for each pf the recipes to show what they look like -->
