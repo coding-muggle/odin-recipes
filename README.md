@@ -1,34 +1,34 @@
 # Recipes Book
 
-#Project Overview
+# Project Overview
 
 This is a simple recipe book website that showcases three recipes in an easy-to-navigate format. The website provides the user with all the ingerdients and guidlines on how to create each recipe with a straightforward design.
 
-##Features
+## Features
 
 - Simple, clean HTML structure
 - Easy navigation between pages
 - File Structure
 - Homepage with navigation to three different recipes
 
-###Individual recipe pages for:
+### Individual recipe pages for:
 
 - Fried Chicken
 - Steak & Eggs
 - Pancakes
 
-###Langauges Used
+### Langauges Used
 
 HTML5
 Basic web structure and navigation
 
-###How to Use
+### How to Use
 
 Open index.html in your web browser to view the homepage
 Click on any recipe link to view the detailed recipe page
 Use your browser's back button to return to the homepage
 
-##Browser Compatibility
+## Browser Compatibility
 
 This website is compatible with all modern web browsers including:
 
@@ -44,8 +44,8 @@ Potential improvements for this recipe book:
 - Add responsive design for mobile devices
 - Include nutritional information
 
-####Author
+#### Author
 
 coding-muggle
 
-#####Created as part of a web development learning project.
+##### Created as part of a web development learning project.
