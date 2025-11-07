@@ -1,2 +1,51 @@
-# odin-recipes
-<!-- This project will be a recipe book essentially where each recipe is listed on the website and it has a link that takes us to that specific recipe. The skills I have demonstrated ibclude displaying each recipe insutrctions in an ordered list, ensuring each link opens a seperate page if it is redirecting us to a different link and if it is on the same website then it will remain on the site, and finally there will also be images for each pf the recipes to show what they look like -->
+# Recipes Book
+
+#Project Overview
+
+This is a simple recipe book website that showcases three recipes in an easy-to-navigate format. The website provides the user with all the ingerdients and guidlines on how to create each recipe with a straightforward design.
+
+##Features
+
+- Simple, clean HTML structure
+- Easy navigation between pages
+- File Structure
+- Homepage with navigation to three different recipes
+
+###Individual recipe pages for:
+
+- Fried Chicken
+- Steak & Eggs
+- Pancakes
+
+###Langauges Used
+
+HTML5
+Basic web structure and navigation
+
+###How to Use
+
+Open index.html in your web browser to view the homepage
+Click on any recipe link to view the detailed recipe page
+Use your browser's back button to return to the homepage
+
+##Browser Compatibility
+
+This website is compatible with all modern web browsers including:
+
+Chrome
+Firefox
+Safari
+Edge
+
+Potential improvements for this recipe book:
+
+- Add CSS styling for better visual presentation
+- Implement a search functionality
+- Add responsive design for mobile devices
+- Include nutritional information
+
+####Author
+
+coding-muggle
+
+#####Created as part of a web development learning project.
